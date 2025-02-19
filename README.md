@@ -1,1 +1,1 @@
-# deepplay_test
+# Тестовое задание для компании Deeplay
